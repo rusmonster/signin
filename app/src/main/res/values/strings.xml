@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Signin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="username">Username</string>
+	<string name="sign_in">Sign In</string>
+	<string name="password">Password</string>
+	<string name="sign_in_error">Sign in error.</string>
+	<string name="sign_in_succeeded">Sign in succeeded</string>
+
+</resources>

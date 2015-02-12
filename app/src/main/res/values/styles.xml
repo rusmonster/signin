@@ -1,0 +1,19 @@
+<resources>
+
+	<style name="AppTheme" parent="Theme.AppCompat.Light">
+		<item name="android:editTextStyle">@style/Widget.EditText.Red</item>
+	</style>
+
+	<style name="Widget.EditText.Red" parent="android:Widget.EditText">
+		<item name="android:background">@drawable/edit_text_holo_light</item>
+	</style>
+
+	<style name="SigninButton">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+</resources>
