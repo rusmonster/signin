@@ -92,7 +92,7 @@ public class SignInActivity extends Activity implements SignInModel.Observer {
 	@Override
 	protected void onPause() {
 		Log.i(TAG, "onPause");
-		super.onResume();
+		super.onPause();
 	}
 
 	@Override
